@@ -117,7 +117,8 @@ const ImageSlider: React.FC<ImageSliderProps> = ({
     }
   };
 
-  const handleClick = (image: Image) => {
+  const handleClick = (index: number, image: Image) => {
+    setCurrentIndex(index);
     if (onImageClick) {
       onImageClick(image);
     }
@@ -140,7 +141,7 @@ const ImageSlider: React.FC<ImageSliderProps> = ({
             image={image.path}
             width={width}
             height={height}
-            onClick={() => handleClick(image)}
+            onClick={() => handleClick(index, image)}
             {...getSlideStyle(index)}
           />
         ))}
