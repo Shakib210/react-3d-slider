@@ -1,6 +1,6 @@
 {
   "name": "react-3d-slider",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A customizable 3D image slider React component",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,9 +26,10 @@
     "styled-components": "^5.0.0"
   },
   "devDependencies": {
-    "typescript": "^4.0.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "@types/styled-components": "^5.1.0"
+    "@types/styled-components": "^5.1.0",
+    "typescript": "^4.0.0"
   }
 }
