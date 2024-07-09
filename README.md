@@ -110,10 +110,10 @@ export default App;
 ## Links
 
 - **GitHub Repository**: [https://github.com/Shakib210/react-3d-slider](https://github.com/Shakib210/react-3d-slider)
-- **Live Preview**: [https://your-preview-url.com](https://your-preview-url.com)
+- **Live Preview**: [https://668d711d90e061b7b1590c7f--profound-kangaroo-f8182c.netlify.app/](https://668d711d90e061b7b1590c7f--profound-kangaroo-f8182c.netlify.app/)
 
 ## Preview
-
+![Alt text](https://github.com/Shakib210/react-3d-slider/blob/development/src/assets/slider-image.png)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
