@@ -107,6 +107,14 @@ const App = () => {
 export default App;
 ```
 
+## Links
+
+- **GitHub Repository**: [https://github.com/Shakib210/react-3d-slider](https://github.com/Shakib210/react-3d-slider)
+- **Live Preview**: [https://your-preview-url.com](https://your-preview-url.com)
+
+## Preview
+
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
